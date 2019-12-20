@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+- [x] git remote add origin https://github.com/doyoucream/prismagram-frontend.git
+
+- [x] yarn add styled-components
+- [x] yarn add react-router-dom
+- [x] yarn add graphql
+- [x] yarn add react-apollo-hooks
+- [x] yarn add apollo-boost
+- [x] yarn add react-helmet
