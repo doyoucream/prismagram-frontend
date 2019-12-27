@@ -12,6 +12,7 @@ Instagram clone with Express + Prisma + React and React Native
 - [x] yarn add react-helmet
 - [x] yarn add react-toastify
 - [x] yarn add styled-reset
+- [x] yarn add react-autosize-textarea
 
 ## GIT
 
